@@ -47,7 +47,6 @@ When it comes to books, I rely entirely on the Go team's recommended reading lis
 - [*The Go Programming Language*](https://www.goodreads.com/book/show/25080953-the-go-programming-language) — Alan A. A. Donovan & Brian W. Kernighan  
 - [*Get Programming with Go*](https://www.goodreads.com/book/show/30025600-get-programming-with-go) — Nathan Youngman & Roger Peppe  
 - [*Concurrency in Go*](https://www.goodreads.com/book/show/30413199-concurrency-in-go) — Katherine Cox-Buday  
-- [*Go Programming Blueprints*](https://www.goodreads.com/book/show/24880488-go-programming-blueprints---solving-development-challenges-with-golang) — Mat Ryer  
 - [*Introducing Go*](https://www.goodreads.com/book/show/27015358-introducing-go) — Caleb Doxsey
 
 ---
