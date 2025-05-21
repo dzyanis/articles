@@ -13,6 +13,7 @@ The official [Go website](https://go.dev/) is one of the best starting points. I
 - [The Go Tour](https://go.dev/tour): A guided introduction to Go, with interactive code snippets  
 - [Documentation](https://go.dev/doc/): Well-written and to the point  
 - [Blog](https://go.dev/blog/): Updates and best practices from the Go team
+- [Learn](https://go.dev/learn/): A section of resources, many of which are also featured in this article.
 
 ---
 
@@ -71,11 +72,19 @@ Connecting with others can accelerate your learning. Try:
 
 ## Articles
 
-There are countless Go articles, but the most essential one is:
+There are countless articles about Go, but a few stand out as must-reads:
+- [Effective Go](https://go.dev/doc/effective_go) — This is the cornerstone of idiomatic Go. It’s referenced throughout the ecosystem and is essential for writing clean, idiomatic code.
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/gophercon-singapore-2019.html) — Written by Dave Cheney, a well-known figure in the Go community, this article (and talk) offers valuable tips.
 
-- [Effective Go](https://go.dev/doc/effective_go)
+---
 
-It teaches idiomatic Go and is referenced across the entire ecosystem.
+## Tools
+
+Go is famous for its philosophy that “the toolchain is part of the language.” In other words, most of what you need comes built-in: formatting (gofmt), testing, building, and even documentation tools.
+
+However, one essential addition for any serious project is [golangci-lint](https://golangci-lint.run/). It combines multiple linters into one fast, easy-to-use tool. From day one, it helps you write clean, idiomatic, and bug-free code by catching issues early — before they reach production.
+
+Highly recommended for both solo projects and team workflows.
 
 ---
 
@@ -90,6 +99,10 @@ My personal favorite is building a Redis-like database. There are many examples 
 [Simple Key-Value Store](https://github.com/dzyanis/minikv/blob/main/README.md)
 
 ---
+
+## Acknowledgments
+
+[Dan Horbatt](https://www.linkedin.com/in/danhorbatt/)
 
 ## P.S.
 
