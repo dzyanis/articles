@@ -4,9 +4,9 @@ Golang is a *boring* language — and that’s a compliment. It’s simple, fast
 
 This guide aims to provide a practical and honest approach to learning Golang (also known as Go). There's no single "right" way to learn a programming language. Instead, I'll outline several paths to help you choose what best fits your style, background, and goals.
 
----
+## 1. Getting Started with Go
 
-## Start with the Official Resources
+### 1.1. Official Resources
 
 The official [Go website](https://go.dev/) is one of the best starting points. It includes:
 
@@ -17,30 +17,17 @@ The official [Go website](https://go.dev/) is one of the best starting points. I
 
 ---
 
-## Online Courses
+### 1.2. Online Courses
 
 Class Central lists over 120 Go courses. Here are some notable options:
 
 - [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang) by Ian G. Harris (UC Irvine). One of the longest-standing and most reputable Go courses.
-
 - [Go: The Complete Developer's Guide](https://www.udemy.com/course/go-the-complete-developers-guide/). Highly rated on Udemy, with comprehensive content.
-
 - [Learn How To Code: Google's Go Programming Language](https://www.udemy.com/course/learn-how-to-code/). Very practical and exercise-focused.
 
-- [Ardan Labs – Ultimate Go](https://www.ardanlabs.com/training/ultimate-go/). Advanced-level training by Go veterans. Not suitable for beginners, but excellent for serious developers.
-
 ---
 
-## Learn by Example
-
-If you prefer learning by reading code, try:
-
-- [Learn X in Y Minutes (Go)](https://learnxinyminutes.com/docs/go/)  
-- [Go by Example](https://gobyexample.com/) — now officially recommended on the Go website
-
----
-
-## Books
+### 1.3. Books
 
 When it comes to books, I rely entirely on the Go team's recommended reading list:
 
@@ -50,7 +37,20 @@ When it comes to books, I rely entirely on the Go team's recommended reading lis
 
 ---
 
-## Learn by Practice
+### 1.4. Learn by Doing
+
+---
+
+#### Learn by Example
+
+If you prefer learning by reading code, try:
+
+- [Learn X in Y Minutes (Go)](https://learnxinyminutes.com/docs/go/)  
+- [Go by Example](https://gobyexample.com/) — now officially recommended on the Go website
+
+---
+
+#### Learn by Practice
 
 Writing Go code is the best way to learn.
 
@@ -61,7 +61,7 @@ Another fantastic resource is [Learn Go with Tests](https://quii.gitbook.io/lear
 
 ---
 
-## Join the Community
+### 1.5. Join the Community
 
 Connecting with others can accelerate your learning. Try:
 
@@ -70,7 +70,9 @@ Connecting with others can accelerate your learning. Try:
 
 ---
 
-## Articles
+## 2. Core Knowledge & Style
+
+### 2.1. Articles & Best Practices
 
 There are countless articles about Go, but a few stand out as must-reads:
 - [Effective Go](https://go.dev/doc/effective_go) — This is the cornerstone of idiomatic Go. It’s referenced throughout the ecosystem and is essential for writing clean, idiomatic code.
@@ -79,7 +81,7 @@ There are countless articles about Go, but a few stand out as must-reads:
 
 ---
 
-## Tools
+### 2.2. Tools
 
 Go is famous for its philosophy that “the toolchain is part of the language.” In other words, most of what you need comes built-in: formatting (gofmt), testing, building, and even documentation tools.
 
@@ -89,7 +91,9 @@ Highly recommended for both solo projects and team workflows.
 
 ---
 
-## Mastering Go
+## 3. Advanced Topics
+
+### 3.1. Mastering Go
 
 Choose your learning method — tour, code, course, or community — and start building.
 
@@ -101,11 +105,19 @@ My personal favorite is building a Redis-like database. There are many examples 
 
 ---
 
+### 3.2. Trainings
+
+[Ardan Labs – Ultimate Go](https://www.ardanlabs.com/training/ultimate-go/) is advanced-level training by Go veterans. Not suitable for beginners, but excellent for serious developers.
+
+---
+
 ## Acknowledgments
 
 - [Dan Horbatt](https://www.linkedin.com/in/danhorbatt/)
 - [Oleg Balunenko](https://www.linkedin.com/in/olegbalunenko/)
 - [Ruslan Panamarenka](https://www.linkedin.com/in/sevenwhite/)
+
+---
 
 ## P.S.
 
