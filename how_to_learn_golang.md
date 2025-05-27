@@ -19,7 +19,7 @@ The official [Go website](https://go.dev/) is one of the best starting points. I
 
 ### 1.2. Online Courses
 
-Class Central lists over 120 Go courses. Here are some notable options:
+[Class Central](https://www.classcentral.com/subject/golang) lists over 100 Go courses. Here are some notable options:
 
 - [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang) by Ian G. Harris (UC Irvine). One of the longest-standing and most reputable Go courses.
 - [Go: The Complete Developer's Guide](https://www.udemy.com/course/go-the-complete-developers-guide/). Highly rated on Udemy, with comprehensive content.
@@ -43,10 +43,7 @@ When it comes to books, I rely entirely on the Go team's recommended reading lis
 
 #### Learn by Example
 
-If you prefer learning by reading code, try:
-
-- [Learn X in Y Minutes (Go)](https://learnxinyminutes.com/docs/go/)  
-- [Go by Example](https://gobyexample.com/) — now officially recommended on the Go website
+If you prefer learning by reading code, start with the concise [Learn X in Y Minutes (Go)](https://learnxinyminutes.com/docs/go/) for a quick syntax overview, or dive into [Go by Example](https://gobyexample.com/) — a more detailed and practical guide now officially recommended on the Go website.
 
 ---
 
@@ -117,7 +114,6 @@ My personal favorite is building a Redis-like database. There are many examples 
 - [Oleg Balunenko](https://www.linkedin.com/in/olegbalunenko/)
 - [Ruslan Panamarenka](https://www.linkedin.com/in/sevenwhite/)
 
----
 
 ## P.S.
 
