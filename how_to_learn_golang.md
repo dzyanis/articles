@@ -97,7 +97,7 @@ Choose your learning method — tour, code, course, or community — and start b
 A great way to deepen your knowledge is to recreate familiar technologies from scratch.  
 If you're looking for inspiration, the ["Build Your Own X"](https://github.com/codecrafters-io/build-your-own-x) list is an amazing resource.
 
-My personal favorite is building a Redis-like database. There are many examples out there, and I’ve started my own version:  
+One of my favorite challenges is building a Redis-like database. While plenty of them exist, I’ve created my own version:
 [Simple Key-Value Store](https://github.com/dzyanis/minikv/blob/main/README.md)
 
 ---
