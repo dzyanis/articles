@@ -2,7 +2,7 @@
 
 In today’s fast-paced tech world, the spotlight often shines on developer productivity and how AI tools are revolutionizing software development. We hear a lot about making things faster and cheaper, with innovations like [DX Core 4](https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/), [Cursor](https://www.cursor.com/), and [Copilot](https://copilot.microsoft.com/chats/1svciRnHZvvr3Fj4ejeug) generating excitement.
 
-But a key idea from [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/113934.The_Goal) by by Eliyahu M. Goldratt still holds true:
+But a key idea from [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/113934.The_Goal) by Eliyahu M. Goldratt still holds true:
 > Improving one part of a system does not necessarily improve the performance of the system as a whole.
 
 These tools can help teams move faster, but they can also accelerate failure. We’re now able to do the wrong things more efficiently than ever. That raises an important question: Are failed projects mostly the result of unproductive engineers or ineffective management?
