@@ -1,4 +1,4 @@
-# Leadership Still Matters in the Age of Engineering Efficiency
+# Why Leadership Still Matters in the Age of Engineering Efficiency
 
 In today’s fast-paced tech world, the spotlight often shines on developer productivity and how AI tools are revolutionizing software development. We hear a lot about making things faster and cheaper, with innovations like [DX Core 4](https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/), [Cursor](https://www.cursor.com/), and [Copilot](https://copilot.microsoft.com/chats/1svciRnHZvvr3Fj4ejeug) generating excitement.
 
